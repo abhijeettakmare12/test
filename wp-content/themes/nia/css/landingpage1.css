@@ -1,0 +1,1168 @@
+﻿html {
+	margin-top: 32px !important;
+}
+body {
+	background: url("https://nationalinsuranceadvisors.com/wp-content/themes/nia/images/sky.jpg") no-repeat center;
+	width: 100%;
+	background-size: 100% 100%;
+	min-height:525px;
+}
+#fb_background {
+	width: 60%;
+	background: url("https://nationalinsuranceadvisors.com/wp-content/themes/nia/images/lp_fb.png");
+	padding: 11px 0px 49px 21px;
+	margin: 0 auto;
+	margin-bottom: 0px;
+	background-repeat: no-repeat;
+	left: 24px;
+	position: relative;
+	height:89px;
+}
+input[type=radio].css-checkbox {
+	font-size: 14px;
+	width: 41px;
+	height: 45px;
+ }
+#tawkchat-iframe-container {
+ display:none !important;
+ opacity: 0 !important;
+} 
+.css-label {
+	margin-left:4px;
+	/*margin-right:45px;*/
+	margin-right:50px;
+	margin-top:0px;
+	height:50px;
+	display:inline-block;
+	line-height:22px;
+	background-repeat:no-repeat;
+	background-position: 0 0;
+	font-size:14px;
+	vertical-align:middle;
+	/*cursor:pointer;*/
+	font-weight:normal;
+	color: #333366;
+}
+#headline {
+	text-align: left;
+	color: #FFFF00;
+	font-style: normal;
+	font-size: 33px;
+	width: 100%;
+	margin: 0 auto;
+	font-weight: bold;
+	line-height:38px;
+	font-family: arial;
+	top: 1px;
+	position: relative;
+}
+.mind_today {
+	font-size: 18px;
+	color: #fff;
+	font-weight: bold;
+	left: 5px;
+	position: relative;
+}
+.desktop_top{
+	margin-top:5px;
+	}
+
+.arrow_img {
+	top: 25px;
+	position: relative;
+	left: -10px;
+	z-index:999;
+}
+.main_form {
+	background: #fff;
+	border-radius: 12px;
+	padding: 20px;
+	border: 1px solid #636363;
+	min-height: 229px;
+	width: 42.9%;
+	margin-left: 7px;
+}
+.use_map img {
+	left: 18px;
+    position: relative;
+}
+#wizard .privacy_notes {
+	background: #fff;
+	border-radius: 5px;
+	padding: 15px 0px 15px 10px;
+	width: 81.8%; 
+	margin-left: -2.7%;
+	height: 159px;
+}
+
+.continue_button{
+    margin-left: -43px;
+}
+.continue_button_2{
+    margin-left: -29px;
+}
+.zipcode_continue{
+	margin-left: -87px;
+	}
+.foot_lgo {
+	margin-left:-10px;
+}
+#foot_images img {
+	float:right;
+}
+#footerline {
+	border-bottom: 1px solid #999999;
+	clear: both;
+	top: 8px;
+	position: relative;
+	width: 99%;
+}
+#policy_text {
+	margin-top: 7px;
+	color: #999999;
+	font-size: 11px;
+	left: 10px;
+	position: relative;
+}
+#copyright {
+	font-size:11px;
+	text-align:right;
+	margin-top: 13px;
+	color: #999999;
+	line-height: 13px;
+	left: -1px;
+	position: relative;
+}
+.lmb_ins_bkgrd {
+	background: #f2dbb7;/*url('/wp-content/themes/nia/images/lpIns_footer_blank.png');*/
+	min-height:18px;
+	font-size: 11px;
+	padding: 12px 8px 8px 15px;
+	margin-top: 20px;
+	margin-left: 5.6%;
+	width: 81.9%;
+	border-radius: 4px;
+	line-height: 17px;
+	margin-bottom: 25px;
+	color: #999999;
+}
+#commentForm select, #commentForm #zip {
+	height: 35px;
+	/*width: 250px;*/
+	/*width: 210px;*/
+	margin-top: 10px;
+	padding: 5px;
+	border: 1px solid #809DB9;
+	margin-left:15px;
+}
+.privacy_text{
+    width: 120px !important;
+    float: left;
+    margin-left: 10px !important;
+}
+.privacy_key{
+    width: 157px;
+    float: left;
+}
+#key_icon{
+    float: left;
+    margin-top: 14px;
+}
+
+#commentForm #tobaco_use {
+	margin-top: -10px;
+}
+#commentForm #zip {
+	width: 167px;
+	margin-top: 14px;
+	height: 38px;
+	color: #333333;
+    border: 1px solid #7F9DB9;
+    font-size: 16px;
+    font-weight: bold;
+}
+.continue_btn{
+	float: right;
+    position: relative;
+    top: 58px;
+	}
+.rqd_login {
+	position: absolute;
+	left: -38px;
+	top: -70px;
+	height: 100px;
+	width: 100px;
+}
+.pager li>a {
+	border:none;
+}
+.previous a {
+	font-weight: bold;
+	color: #333366 !important;
+	font-size:12px;
+}
+.wizard .disabled {
+	display:none;
+}
+#dobDate, #dobYear, #dobMonth {
+	width: 20%;
+	float: left;
+	margin-right: 5px;
+	height: 30px;
+	left: 5px;
+    position: relative;
+	margin-top: 7px;
+}
+.pager {
+	margin:0px;
+}
+.tab-pane .next {
+	float:left;
+}
+.pager li>a:hover, .pager li>a:focus {
+/*background:#fff;*/
+/*margin: 0 auto;
+display: block;*/
+}
+/*.pager{
+	text-align:left !important;
+	}*/
+.height_div {
+	float: left;
+	width: 44%;
+	margin-right: 10px;
+}
+#tab17 #email_div .controls {
+	float: left;
+	/*width: 65%;*/
+	width: 60%;
+}
+#tab17 .field-suffix {
+	float: right;
+	/*width: 30%;*/
+	top:20px;
+}
+.weight_div {
+	float: left;
+	width: 50%;
+	margin-top: -25px;
+}
+.height_div #height_appl, .weight_div #weight_aapl {
+	width: 100%;
+}
+#progContainer {
+	height: 10px;
+	width: 110px;
+	background-image: url("https://nationalinsuranceadvisors.com/wp-content/themes/nia/images/progContainer.jpg");
+	top: -25px;
+	float:right;
+	position: relative;
+}
+#progBar {
+	height: 10px;
+	background-image: url("https://nationalinsuranceadvisors.com/wp-content/themes/nia/images/progress-bar-new.png");
+	top: 0;
+	border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.form-horizontal #tab1 .control-label {
+	/*margin-top: 4px;
+	padding-top:28px;*/
+}
+.tab-content>.active{
+	margin-left: -1px;
+}
+.error {
+	position:relative;
+}
+.form-horizontal .control-label {
+	font-family: "Trebuchet MS";
+	margin-left: 10px;
+	margin-top: 0px;
+	padding-top:1px;
+	color: #333366;
+	font-size:25px;
+	text-align:left;
+	/*letter-spacing: -1px;*/
+}
+.form-horizontal #tab5 .control-label, .form-horizontal #tab6 .control-label, .form-horizontal #tab12 .control-label, .form-horizontal #tab13 .control-label, .form-horizontal #tab14 .control-label, .form-horizontal #tab17 .control-label {
+	letter-spacing: -1px;
+}
+.rqd_mob_login {
+	margin-top: -15px;
+	height: 260px;
+	width: 330px;
+	margin-left: 2px;
+}
+#headline_second {
+	color: #333366;
+	font-size: 26px;
+	width: 850px;
+	font-family: Arial;
+	left: -9px;
+	font-weight: bold;
+	top: 48px;
+	position: relative;
+}
+.mind_today2 {
+	color: #333366;
+	font-size: 18px;
+	font-weight: bold;
+	top: 2px;
+	position: relative;
+	left: -1px;
+}
+#zip_title {
+	float: left;
+	text-transform:capitalize;
+	letter-spacing:0;
+}
+#zip_control {
+	width: 171px;
+	float: left;
+	clear: both;
+}
+#email_addes {
+	/*width: 250px;*/
+	width: 210px;
+	margin-left: 15px;
+	height: 35px;
+	/*border: 1px solid #000;*/
+	border: 1px solid #809DB9;
+	padding-left: 5px;
+	margin-top: 8px;
+}
+#tab18 input {
+	width: 80%;
+	margin-left: 15px;
+	height: 35px;
+	border: 1px solid #000;
+	padding-left: 5px;
+	margin-top: 8px;
+	MARGIN-BOTTOM: 10PX;
+}
+#tab18 select {
+	width: 80%;
+	margin-bottom:10px;
+}
+#top_back .previous {
+	text-align: left;
+	float: left;
+	background: none;
+}
+#top_back .previous a:hover {
+	background: none;
+}
+#top_back .previous a {
+	float: none;
+	padding-left: 5px;
+	font-size: 11px;
+	text-decoration: underline;
+	background: none;
+}
+#top_back {
+	margin-top: -21px;
+	margin-left: 8px;
+}
+#btn_nxt {
+	left: 0px;
+	position: relative;
+}
+.btn_continue {
+	left: 44px;
+	position: relative;
+}
+.m_arrow_img {
+	margin-top: 70px;
+	position: relative;
+	margin-left: 10px;
+	width: 57px;
+	z-index: 99;
+	left: 7px;
+	top: 5px;
+}
+.field-suffix {
+	font-size: 11px;
+	color: #aaaaaa;
+	width: 242px;
+	display: block;
+	line-height: 11px;
+	margin-left: 18px;
+	top: 5px;
+	position: relative;
+}
+.weight_info{
+	width:80% !important; 
+	float:left;
+	margin-top: 11px !important;
+	}
+#all_height_weight{
+	top:0;
+	}
+	ul#top_back {
+ height:34px;
+ padding-left:10px;
+}
+#weightSuffix{
+	width: 10px;
+    float: left;
+    margin-left: 10px;
+    line-height: 58px;
+    text-align: left;
+    font-family: arial;
+    font-size: 14px;
+    color: #333366;
+	top: 0;
+	}
+
+#buttonContinue {
+	left: 250px;
+	position: absolute;
+	top: 162px;
+}
+#tab1 .controls .next {
+	display: block !important;
+}
+#btf {
+	background:#fff url("https://nationalinsuranceadvisors.com/wp-content/themes/nia/images/sprite-mom.png") no-repeat;
+	background-position: -535px -15px;
+	margin: 10px -20px 0;
+	border-radius: 5px;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
+	padding: 10px 39px 10px 65px;
+	font-size: 13px;
+	font-weight: bold!important;
+	min-height: 125px;
+	width: 373px;
+	font-family: Roboto, "Helvetica Neue", Helvetica, sans-serif;
+	line-height: 15px;
+}
+#tab18 .control-label {
+	margin-left: 10px !important;
+	margin-top: 0px !important;
+	font-size: 26px;
+}
+.fineprint {
+	font-size: 9px;
+	font-weight: normal;
+	color: #999;
+}
+#tab18 .btn {
+	margin:0 auto !important;
+	display: block;
+	background-color: rgb(251, 172, 67);
+	color: #fff;
+}
+/*.tbl10, .tbl_top10 {
+	display:none !important;
+}*/
+.tbl10{
+	display:none !important;
+	}
+.top_11 {
+	/*margin-top:34px !important;*/
+}
+#desk_suffix {
+	top: -12px;
+	/*top: -100px;*/
+}
+.after_tab10 {
+	width:45.2%;
+	margin-top:-3.7%;	
+	margin-left:-3.9%;		 
+	min-height:223px;	
+	border-radius:15px;
+}
+#top_forword a {
+	margin-left: -20px;
+    font-weight: bold;
+    color: #333366 !important;
+}
+ #modal {
+ position:absolute;
+ background: #7EBD6F;
+ padding: 3px;
+ width: 350px;
+ 
+    min-height: 149px; 
+    background-image: url("https://nationalinsuranceadvisors.com/wp-content/themes/nia/images/majorMedicalPopup.png");
+	
+}
+ #content {
+ /*background:white;*/
+ padding:10px;
+}
+ #content span {
+ color: #000000;
+ font-weight: bold;
+ padding-bottom: 5px;
+ display: block;
+}
+#content table{
+	width:100%;
+	}
+ #close {
+ position:absolute;
+ background:url(close.png);
+ width:24px;
+ height:27px;
+ top:-7px;
+ right:-7px;
+}
+.desktop_modal {
+top: 240px !important;
+    left: 650px !important;	
+}
+#overlay_form{
+position: absolute; 
+padding: 10px;
+background: white; 
+left: 70px !important;
+z-index:999;
+    top: 125px !important;
+    position: absolute;
+    width: 350px;
+    min-height: 150px;
+    background-image: url('https://cdn.lmbinsurance.com/ilf-images/presentations/common/majorMedicalPopup.png');
+}
+#pop{
+display: block;
+border: 1px solid gray;
+width: 65px;
+text-align: center;
+padding: 6px;
+border-radius: 5px;
+text-decoration: none;
+margin: 0 auto;
+}
+
+.popup_next a{
+	position: relative;
+    top: 92px;
+    left: 50px; 
+    cursor: pointer;
+    text-decoration: underline !important;
+    color: blue;
+    font-size: 10px;
+}
+.popup_continue a{
+	position: relative;
+    cursor: pointer;
+    top: 90px;
+    left: 60px;
+}
+.m_popup_continue a{
+	position: relative;
+    cursor: pointer;
+    top: 65px;
+    left: 10px;
+}
+#desk_footer_icon {
+	    margin-top: 9.5%;
+}
+/*#tab10, #tab11, #tab12, #tab13, #tab14, #tab15, #tab16, #tab17, #tab18{
+	padding-top: 20px;
+}*/
+.btn_continue_tab {
+	float: right;
+	background: none;
+	margin-top: 10px;
+}
+@-moz-document url-prefix() {
+/* .main_form {
+ width: 45.7%;
+margin-top: 7%;
+margin-left: -4.7%;
+min-height: 223px;
+border-radius: 15px;
+}*/
+}
+
+.css-label-2{
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+    height: 22px;
+    display: inline-block;
+    line-height: 22px;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    font-size: 14px;
+    vertical-align: middle;
+   /* cursor: pointer;*/
+    font-weight: normal;
+    color: #333366;
+	}
+input[type=radio].css-checkbox-2{
+  width: 17px; 
+  height: 14px; 
+  margin  : 4px 0px 0px 0px;
+  padding : 0;
+  opacity : 1;
+  /*top:5px;
+  left:7px;*/
+  top:0px;
+  left:0px;
+  position:relative;
+  
+	}
+
+	
+#tab8 .m_overlay_form {
+left: 10px !important;	
+}
+
+input[type=radio]:not(old){
+ /* width   : 28px;*/
+  width   : 40px;
+  height:40px;
+  margin  : 0;
+  padding : 0;
+  opacity : 0;
+  /*top:5px;
+  left:7px;*/
+  top:9px;
+  left:-3px;
+  position:relative;
+}
+
+
+input[type=radio]:not(old) + label{
+  display      : inline-block;
+  margin-left  : -44px;
+  padding-left : 48px;
+  background   : url("https://nationalinsuranceadvisors.com/wp-content/themes/nia/images/radio-inactive-1.png") no-repeat 0 0;
+  line-height  : 44px;
+}
+
+
+input[type=radio]:not(old):checked + label{
+  background   : url("https://nationalinsuranceadvisors.com/wp-content/themes/nia/images/radio-active-1.png") no-repeat 0 0;
+}
+
+
+.regular-radio-2 {
+	display: none;
+}
+
+.regular-radio-2 + label {
+	-webkit-appearance: none;
+    border: 1px solid #787878;
+    background-color: #eee;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.05), inset 0px -15px 10px -12px rgba(0,0,0,0.05);
+    padding: 19px;
+    border-radius: 40px;
+    display: inline-block;
+    position: relative;
+}
+
+.regular-radio-2:checked + label:after {
+	content: " ";
+    width: 17px;
+    height: 14px;
+    left: 6px;
+    top: 6px;
+    border-radius: 26px;
+    position: absolute;
+    background: #000000;
+    box-shadow: inset 0px 0px 10px rgba(0,0,0,0.3);
+    text-shadow: 0px;
+    font-size: 32px;
+}
+
+
+/*.big-radio + label {
+	padding: 16px;
+}
+
+.big-radio:checked + label:after {
+	width: 24px;
+	height: 24px;
+	left: 4px;
+	top: 4px;
+}*/
+
+.lab{
+margin-left: -7px;
+    margin-right: 45px;
+    margin-top: 16px;
+    height: 22px;
+    display: inline-block;
+    line-height: 22px;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    font-size: 14px;
+    vertical-align: middle;
+    color: #333366;
+    font-weight: normal !important;
+    float: left;
+}
+.lab-2{
+margin-left: -7px;
+    margin-right: 45px;
+    margin-top: 5px;
+    height: 22px;
+    display: inline-block;
+    line-height: 22px;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    font-size: 14px;
+    vertical-align: middle;
+    color: #333366;
+    font-weight: normal !important;
+    float: left;
+}
+.lab-2 label{
+	font-weight:normal !important;
+	}
+	
+@media only screen and (max-width: 525px) and (min-width: 320px){
+	#headline{
+	/*text-align: left;
+    font-size: 14px !important;
+    line-height: 14px !important;
+    margin-left: -25px !important;*/
+	}
+	
+	#progContainer {
+    top: -6px;
+   }
+
+#commentForm select, #commentForm #zip {
+    /*height: 35px;
+    width: 90% !important;
+    margin-top: 10px;
+    padding: 5px;
+    border: 1px solid #809DB9;
+    margin-left: 15px;*/
+}
+
+.height_div {
+   /* float: left;
+    width: 90% !important;
+    margin-right: 10px;*/
+}
+.weight_div {
+    /*float: left;
+    width: 90% !important;
+    margin-top: 17px !important;*/
+}
+	.mind_today {
+    font-size: 13px !important;
+    color: #fff;
+    font-weight: bold;
+    left: -25px !important;
+    position: relative;
+}
+#top_back .previous {
+   /* text-align: left;
+    float: left;
+    background: none;
+    margin-top: 22px !important;
+	margin-right: 13px;*/
+}
+.desktop_top {
+    margin-top: 23px;
+}
+.arrow_img {
+    top: 45px !important;
+    position: relative;
+    left: -42px !important;
+    z-index: 999;
+    width: 35px !important;
+}
+.main_form {
+    background: #fff;
+    border-radius: 12px;
+    padding: 0px;
+    border: 1px solid #636363;
+    min-height: 229px;
+    width: 100%;
+    margin-left: 0px;
+}
+
+.m_arrow_img {
+    /*margin-top: 50px !important;
+    position: relative;
+    margin-left: -42px;
+    width: 44px;
+    z-index: 99;
+    left: 19px !important;
+    top: 55px !important;*/
+}
+
+.after_tab10 {
+    width: 45.2%;
+   /* margin-top: 8% !important;*/
+    margin-left: -3.9%;
+    min-height: 223px;
+    border-radius: 15px;
+}
+#headline_second {
+    color: #333366;
+    font-size: 14px;
+    width: 100%;
+    font-family: Arial;
+    left: 0px !important;
+    font-weight: bold;
+    top: 47px;
+    position: relative;
+    line-height: 18px;
+    z-index: 99999;
+}
+}
+
+
+@media only screen and (max-width: 1024px) and (min-width: 772px){
+.pager li>a{
+	/*padding:0px;*/
+	}
+.continue_button{
+	margin-left:0px;
+	}
+	
+	.btn_continue {
+    left: 0px; 
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+#fisr_conti1{
+	height:auto;
+	max-width:100%;
+	display:block;
+	}
+.lmb_ins_bkgrd {
+    background: #f2dbb7;
+    min-height: 18px;
+    font-size: 11px;
+    padding: 12px 8px 8px 15px;
+    margin-top: 20px;
+    margin-left: 0px;
+    width: 100%;
+    border-radius: 4px;
+    line-height: 17px;
+    margin-bottom: 25px;
+    color: #999999;
+}
+#wizard .privacy_notes {
+    background: #fff;
+    border-radius: 5px;
+    padding: 15px 0px 15px 10px;
+    width: 100%;
+     margin-left: 0%; 
+    height: 159px;
+}	
+input[type=radio]:not(old) + label {
+    display: inline-block;
+    margin-left: -50px;
+    padding-left: 48px;
+    background: url("https://nationalinsuranceadvisors.com/wp-content/themes/nia/images/radio-inactive-1.png") no-repeat 0 0;
+    line-height: 44px;
+}	
+	
+#headline{
+	text-align: left;
+    margin-left: 34px;
+	font-size: 25px;
+	}
+.mind_today {
+    font-size: 18px;
+    color: #fff;
+    font-weight: bold;
+    left: 34px;
+    position: relative;
+}	
+.container{
+	left:0px !important;
+	width:100%;
+	}	
+
+.arrow_img {
+    top: 24px;
+    position: relative;
+    left: -2px;
+    z-index: 999;
+    width: 70px;
+}
+.col-sm-8{
+	margin-bottom:42px;
+	}	
+	
+#headline_second {
+    color: #333366;
+    font-size: 23px;
+    width: 100%;
+    font-family: Arial;
+    left: 10px;
+    font-weight: bold;
+    top: 48px;
+    position: relative;
+}
+
+}
+
+
+@media (max-width: 771px){
+.main_form {
+    background: #fff;
+    border-radius: 12px;
+    /*padding: 0px;*/
+    border: 1px solid #636363;
+    min-height: 229px;
+    width: 100%;
+    margin-left: 0px;
+}
+.rqd_mob_login{
+	margin-top: 17px;
+    height: 100%;
+    width: 100%;
+    margin-left: 0px;
+	}
+	.desktop_top {
+    /*margin-top: 22px;*/
+}
+#top_back .previous {
+    text-align: left;
+    float: left;
+    background: none;
+   /* margin-top: 21px;*/
+    margin-right: 13px;
+}
+.pager li>a{
+	padding:0px;
+	}	
+.continue_button{
+	margin-left:0px;
+	}	
+#fisr_conti1{
+	height:auto;
+	max-width:100%;
+	display:block;
+	}	
+input[type=radio]:not(old) + label {
+    display: inline-block;
+    margin-left: -34px;
+    padding-left: 50px;
+    background: url("https://nationalinsuranceadvisors.com/wp-content/themes/nia/images/radio-inactive-1.png") no-repeat 0 0;
+    line-height: 44px;
+}	
+#wizard .privacy_notes {
+    background: #fff;
+    border-radius: 5px;
+    padding: 15px 0px 15px 10px;
+     width: 100%; 
+    margin-left: -2.7%;
+    height: 222px; 
+
+}	
+#fb_background{
+	left:0;
+	}
+.lmb_ins_bkgrd {
+    background: #f2dbb7;
+    min-height: 18px;
+    font-size: 11px;
+    padding: 12px 8px 8px 15px;
+    margin-top: 20px;
+    margin-left: -2.4%;
+     width: 100%; 
+    border-radius: 4px;
+    line-height: 17px;
+    margin-bottom: 25px;
+    color: #999999;
+}
+#headline {
+    text-align: left;
+    font-size: 20px;
+    /*margin-left: -32px;
+    line-height: 25px;*/
+}
+.mind_today{
+	left:-30px;
+	}
+.rqd_login {
+    position: absolute;
+    left: -38px;
+    top: -35px;
+    height: 100px;
+    width: 100px;
+}
+#policy_text{
+	left:0px;
+	text-align:center;	
+}
+#copyright{	
+	text-align:center;
+	}
+.arrow_img {
+    top: 36px;
+    position: relative;
+    left: -54px;
+    z-index: 999;
+    width: 50px;
+}
+#top_forword a{
+	     margin-left: 0px; 
+	}
+.container{
+	left:0px !important;
+	}
+
+ul#top_back{
+    padding-left: 10px;
+}
+.btn_continue{
+	left: 0px;
+	display:block;
+	max-width:100%;
+	height:auto;
+	}
+	
+	.rqd_login1{
+	display: block;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+	}	
+.second_image{
+	margin-left:0px !important;
+	margin-top:0px !important;
+	}	
+.after_tab10{
+ /* margin-bottom: 15px;*/
+	}	
+.foot_lgo{
+	    display: block;
+    margin-left: auto;
+    margin-right: auto;
+	}		
+#wizard .privacy_notes{
+	padding:0px;
+	}		
+#progContainer{
+	/*top: -6px;*/
+	}	
+.m_arrow_img {
+    /*margin-top: 70px; 
+    position: relative;
+    margin-left: -42px;
+    width: 44px;
+    z-index: 99;
+    left: 19px;
+    top: 20px;*/
+}
+#headline_second {
+    color: #333366;
+    font-size: 14px;
+    width: 100%;
+    font-family: Arial;
+    left: -30px;
+    font-weight: bold;
+    top: 47px;
+    position: relative;
+    line-height: 18px;
+    z-index: 99999;
+}
+
+.foot_images img{
+	}
+	
+}	
+	
+ @media (min-width: 771px) {
+ .privacy_notes {
+/*width: 77%;*/
+	}
+ .main_form {
+}
+}
+
+
+
+
+@media only screen and (max-device-width: 768px) and (min-device-width: 320px){
+.tab-content>#tab4 {
+	margin-left: 10px;
+}
+.tab-content .tb4bottomconti{
+	margin: 0 0px 0 13px !important;
+	width:90%;
+	text-align:center;
+}
+}
+
+/*@media screen and (-webkit-min-device-pixel-ratio:0) {
+after_tab10 {
+width: 45.2%;
+margin-top: 2%;
+margin-left: -3.9%;
+min-height: 223px;
+border-radius: 15px;
+}	
+.second_image {
+	margin-top: 6% !important;
+margin-left: 11px !important;
+
+}
+
+}*/
+
+#tawkchat-iframe-container{
+	display:none !important;
+	}
+#vmDisplay16374 #vm-header #vm-productst{
+	display:none !important;
+	}
+#vmDisplay_heading{
+	width: 78%; 
+	margin:0 auto;
+	margin-top: 20px;
+	}
+#vmDisplay_heading span{
+	line-height: 20px !important;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 22px;
+}
+#vmDisplay_heading span.vm-cta{
+	font-size: 18px;
+    font-weight: 700;
+    height: 34px;
+    padding: 10px 0 0 35px;
+	}
+.vmDisplay{
+   padding-top:0px !important;
+	}
+#vmDisplay1644{
+    float: none !important;
+    display: block !important;
+    height: 80px !important;
+    width: 52.5px !important;
+    background: #fff;
+    width: 100% !important;
+    bottom: 0px !important;
+    z-index: 99999999999999 !important;
+    left: 10px !important;
+	position: fixed !important;
+	opacity:0;
+  }
+
+}	
+@media screen and (min-width:640px) {
+.privacy_key {
+ 
+    position: relative;
+    bottom: 73px;
+}
+
+
+}
+	
+	
+/******************My css********************/	
+

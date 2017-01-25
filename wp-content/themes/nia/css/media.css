@@ -1,0 +1,273 @@
+@media (max-width:770px){
+/*
+	body{
+		background: #d7d6d6;
+		padding: 0 45px;
+	}
+*/
+	#play{padding:25px;}
+	.advlist{padding:25px;}
+	.advswrp h2, .howdowewrp h2{text-align:center;}
+	.smallfooterfollow{padding: 0 25px 0 25px;}
+	.footerform{padding: 0 25px 0 25px;}
+	.top_header_l{
+			padding: 0px 25px 0px 25px;
+			float: none;
+			text-align: center;
+				}
+	.top_header_r{
+		padding: 10px 25px 0px 25px;
+		text-align: center;
+		float: none;
+		}
+	.container{
+		padding-left: 40px;
+		padding-right: 40px;
+	}
+	.footer .footerhd{
+		text-align: center;
+		font-size: 20px;
+		padding:25px;
+	}
+	.subscribeform{
+		max-width: 425px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.copyrightwrp_r{
+		float: none;
+		text-align: center;
+	}
+	.footer{
+		padding-top: 35px;
+	}
+	
+	
+	.whyworkwrp h4 img{
+		margin: 0;
+		/*position: absolute;*/
+		margin-right:10px;
+		left: 10px;
+		top: 17px;
+	}
+	.whyworkwrp .col-xs-12.col-sm-4{
+		/*min-height: 52px;
+		padding: 17px 0 17px 95px;*/
+	}
+	.whyworkwrp h4{
+		padding-bottom: 5px;
+	}
+	.whyworkwrp h3{
+		padding-bottom: 27px;
+	}
+	.whyworkwrp{
+		/*padding-bottom: 53px;*/
+		padding: 25px 25px 53px 25px;
+	}
+	.advswrp{
+		padding-bottom: 40px;
+	}
+	
+	.howdowewrp{
+		/*padding-bottom: 0;*/
+		padding: 0px 25px 0px 25px;
+	}
+	.howdowewrpimg{
+		/*margin-right: -40px;
+		margin-left: -60px;*/
+	}
+	.howdowewrpimg img{
+		position: static;
+		max-width: 100%;
+		height: auto;
+	}
+	.advswrp h2, .howdowewrp h2{
+		padding-top: 40px;
+		font-size: 30px;
+		line-height: 34px;
+		padding-bottom: 20px;
+	}
+	.advswrp h2{
+		text-align: center;
+	}
+	.getstarted{
+		margin-top: 20px;
+	}
+	.bannerform{
+		max-width: 370px;
+		display: block;
+		margin: 0 auto;
+		clear: both;
+		padding:25px;
+	}
+	.bannertxt{
+		text-align: center;
+		/*padding:0 0 15px;*/
+		padding:25px;
+	}
+	.xlgtxt, .mdtxt, .banner.inner .xlgtxt{
+		display: inline-block;
+		font-size: 24px;
+		line-height: 27px;
+	}
+	.xlgtxt, .banner.inner .xlgtxt{
+		border-right: 1px solid #fff;
+		padding: 0 10px 0 0;
+		margin-right: 10px;
+	}
+	.smtxt{
+		display: block;
+		clear: both;
+		font-size: 25px;
+		line-height: 25px;
+		padding-bottom: 7px;
+	}
+	
+	.navbar-collapse{
+		overflow: hidden;
+		float: none;
+		margin: 0 -30px;
+	}
+	.navbar-nav.menu{
+		float: none !important;
+		padding: 0;
+		margin: 0;
+		background: #eaeaea;
+	}
+	.navigationwrp{
+		/*padding-bottom: 0;*/
+		    padding: 25px 25px 0px 25px;
+	}
+	.navbar-header{
+		padding-bottom: 28px;
+	}
+	.navbar-nav.menu > li{
+		padding: 7px 30px;
+		border-top:1px solid #fff; 
+	}
+	.navbar-nav.menu > li:first-child{
+		border-top:none; 
+	}
+        .advswrp .col-sm-3.hidden-xs{
+                display:block !important;
+        }
+.advswrp figure img{
+width:auto;
+max-width:190px;
+display:block;
+margin:20px auto -40px;
+}
+.advswrp h2{
+padding-top:9px;
+text-align:center;
+}
+
+.play_button{
+width:100% !important; 
+height:100% !important;	
+padding-bottom: 30px !important;
+}
+
+
+}
+.play_button{
+width:550px; 
+height:270px;	
+}
+.mdtxt a{
+color: #FF0000 !important;
+}
+
+.mdtxt a:hover{
+color: #FF0000 !important;
+}
+
+
+@media (max-width:550px){
+.howdowewrpimg{
+margin-top:-30px;
+}
+.howdowewrpimg img{
+max-width:160px;
+float:right;
+}
+.advswrp figure img{
+max-width:160px;
+}
+	.bloglist li figure{
+		width: 100%;
+		margin-bottom: 10px;
+	}
+	.bloglist_r{
+		margin-left: 0;
+	}
+	.navbar-brand{
+		width: 200px;
+	}
+	.navbar-brand img{
+		width: 100%;
+		height: auto;
+	}
+	.comments-list figure{
+		display: none;
+	}
+	.children{
+		padding-left: 0;
+	}
+	.comment_cont{
+		margin-left: 0;
+	}
+	.top_header{
+		height: auto;
+		padding-bottom: 0;
+	}
+	/*.top_header_l{
+		float: none;
+		text-align: center;
+	}
+	.top_header_r{
+		text-align: center;
+		float: none;
+		padding-top: 10px;
+	}*/
+	.top_header_r ul, .top_header_r span{
+		display: inline-block;
+		float: none;
+		vertical-align: top;
+	}
+	.bannerform .col-xs-6.col-sm-12{
+		width: 100%;
+	}
+	.xlgtxt, .mdtxt, .banner.inner .xlgtxt{
+		display: block;
+		padding: 0;
+		margin: 0;
+		border: none;
+	}
+	.howdowewrp .col-sm-4{
+		float:right;
+	}
+.howdowewrp .col-sm-4 img{
+margin-top:-1px;
+}
+.howdowewrpimg{
+overflow:hidden;
+}
+	.howdowewrp .col-sm-8.col-xs-6{
+		padding-bottom: 30px;
+		width: 100%;
+	}
+	.whyworkwrp .col-xs-12.col-sm-4{
+		/*padding-left: 75px;*/
+	}
+	.innertxt p img.left, .innertxt p img.right{
+		max-width: 100%;
+		float: none;
+		display: block;
+		margin: 0 auto 10px;
+	}
+.play_button{
+width:350px; 
+height:250px;	
+}
+}

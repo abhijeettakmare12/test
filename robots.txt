@@ -1,0 +1,4 @@
+User-agent: *
+Sitemap:http://nationalinsuranceadvisors.com/sitemap.xml
+
+Hello

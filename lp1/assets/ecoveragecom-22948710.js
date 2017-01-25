@@ -1,0 +1,1 @@
+﻿document.write('<style>padding:0px;border:none;}#bbblink{padding:0px;margin:0;}</style>');

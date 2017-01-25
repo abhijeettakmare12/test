@@ -1,0 +1,385 @@
+﻿html {
+    margin-top: 32px !important;
+}
+body {
+	background: url('../wp-content/themes/nia/images/sky.jpg') no-repeat center;
+	width: 100%;
+	background-size: 100% 100%;
+	min-height:525px;
+}
+
+
+#fb_background {
+	width: 60%;
+	background: url('../wp-content/themes/nia/images/lp_fb.png');
+	padding: 15px 0px 49px 21px;
+	margin: 0 auto;
+	margin-bottom: 0px;
+	background-repeat: no-repeat;
+	left: 24px;
+    position: relative;
+}
+input[type=radio].css-checkbox {
+	font-size: 14px;  
+	width: 41px;
+    height: 45px;
+}
+ .css-label {
+	margin-left:4px;
+	margin-right:45px;
+	margin-top:-29px;
+	height:22px; 
+	display:inline-block;
+	line-height:22px;
+	background-repeat:no-repeat;
+	background-position: 0 0;
+	font-size:14px;
+	vertical-align:middle;
+	cursor:pointer;
+	font-weight:normal;
+	color: #333366;
+}
+#headline {
+    text-align: left;
+    color: #FFFF00;
+    font-style: normal;
+    font-size: 33px;
+    width: 100%;
+    margin: 0 auto;
+    font-weight: bold;
+	line-height:38px;
+	font-family: arial;
+	top: 1px;
+    position: relative;
+}
+.mind_today {
+	font-size: 18px;
+    color: #fff;
+    font-weight: bold;
+    left: 5px;
+    position: relative;
+}
+.arrow_img { 
+    top: 25px;
+    position: relative;
+    left: -10px;
+}
+.main_form {
+	background: #fff;
+    border-radius: 12px;
+    padding: 20px;
+    border: 1px solid #636363;
+	min-height: 229px; 
+	width: 43.2%;
+}
+#wizard .privacy_notes {
+	background: #fff;
+    border-radius: 5px;
+    padding: 15px 0px 15px 10px;
+	width: 81.8%;
+    margin-top: 19%;
+    margin-left: -2.7%;
+    height: 222px;
+	
+}
+.foot_lgo {
+	margin-left:-10px;
+}
+#foot_images img{
+	float:right;
+}
+#footerline {
+	border-bottom: 1px solid #999999;
+    clear: both;
+    top: 8px;
+    position: relative;
+	width: 99%;
+}
+#policy_text { 
+	margin-top: 7px;
+	color: #999999;
+    font-size: 11px;
+	left: 10px;
+    position: relative;
+}
+#copyright {
+	font-size:11px;
+	text-align:right;
+	margin-top: 13px;
+	color: #999999; 
+	line-height: 13px;
+	left: -1px;
+    position: relative;
+}
+.lmb_ins_bkgrd {
+	background: #f2dbb7;/*url('/wp-content/themes/nia/images/lpIns_footer_blank.png');*/
+	min-height:18px;
+	font-size: 11px;
+    padding: 12px 8px 8px 15px;
+	margin-top: 20px;
+    margin-left: 5.6%;
+    width: 81.9%;
+    border-radius: 4px;
+    line-height: 17px;
+    margin-bottom: 25px;
+	color: #999999;
+}
+#commentForm select, #commentForm #zip {
+	height: 35px;
+    width: 250px;
+    margin-top: 10px;
+	padding: 5px;
+	border: 1px solid #809DB9;
+	margin-left:15px;
+}
+#commentForm #tobaco_use { 
+    margin-top: -10px; 
+}
+#commentForm #zip {
+	width: 155px;
+}
+.rqd_login {
+	position: absolute;
+    left: -38px;
+    top: -70px;
+    height: 100px;
+    width: 100px;
+}
+.pager li>a {
+	border:none;
+}
+.previous a{
+	font-weight: bold;
+    color: #333366 !important;
+	font-size:12px;
+}
+.wizard .disabled {
+	display:none;
+}
+#dobDate, #dobYear, #dobMonth{
+	width: 20% !important;
+    float: left;
+    margin-right: 5px;
+}
+.pager {
+	margin:0px;
+}
+.tab-pane .next {
+	float:left;
+}
+.pager li>a:hover, .pager li>a:focus {
+	/*background:#fff;*/
+}
+.height_div {
+	float: left;
+    width: 44%;
+    margin-right: 10px;
+}
+#tab17 #email_div .controls{
+	float: left;
+    width: 65%;
+}
+#tab17 .field-suffix {
+	float: left;
+	width: 30%;
+	top:20px;
+}
+.weight_div {
+	float: left;
+    width: 50%; 
+    margin-top: -25px;
+}
+.height_div #height_appl, .weight_div #weight_aapl {
+	width: 100%;
+}
+#progContainer {
+	height: 10px; 
+    width: 110px;  
+    background-image: url('/wp-content/themes/nia/images/progContainer.png');
+    top: -26px;
+	float:right;
+    position: relative;
+}
+#progBar {
+	height: 10px; 
+    background-image: url('/wp-content/themes/nia/images/progBar.png');
+    top: 0;
+}
+.form-horizontal #tab1 .control-label {
+	margin-top: 7px;
+	padding-top:28px;
+}
+ 
+.error { 
+	position:relative;
+}
+.form-horizontal .control-label {
+	font-family: "Trebuchet MS";
+	margin-left: 10px;
+    margin-top: 0px;
+	padding-top:1px;
+    color: #333366;
+	font-size:25px;
+	text-align:left;
+	letter-spacing: -1px;
+}
+.rqd_mob_login {
+	margin-top: -15px;
+    height: 260px;
+    width: 330px;
+    margin-left: 2px;
+}
+#headline_second {
+    color: #333366;
+    font-size: 26px;
+    width: 850px;
+    font-family: Arial;
+    left: -9px;
+    font-weight: bold;
+    top: 48px;
+    position: relative; 	
+}
+.mind_today2 {
+    color: #333366;
+    font-size: 18px;
+    font-weight: bold;
+	top: 2px;
+    position: relative;
+    left: -1px;	
+}
+#zip_title {
+	float: left;
+}
+#zip_control {
+	width: 185px;
+    float: left;
+    clear: both;
+}
+#email_addes {
+	width: 250px;
+    margin-left: 15px;
+    height: 35px;
+    border: 1px solid #000;
+    padding-left: 5px;
+    margin-top: 8px;
+}
+#tab18 input {
+	width: 80%;
+    margin-left: 15px;
+    height: 35px;
+    border: 1px solid #000;
+    padding-left: 5px;
+    margin-top: 8px;
+	MARGIN-BOTTOM: 10PX;
+}
+#tab18 select {
+	width: 80%;
+	margin-bottom:10px; 
+}
+#top_back .previous {
+	text-align: left;
+	float: left;
+	background: none;
+}
+#top_back .previous a:hover {
+	background: none;
+}
+#top_back .previous a {
+	float: none;
+	padding-left: 5px;
+	font-size: 11px;
+    text-decoration: underline;
+	background: none;
+}
+#top_back {
+	    margin-top: -21px;
+		margin-left: 8px;
+}
+#btn_nxt {
+	left: 0px;
+    position: relative;
+}
+
+.btn_continue {
+	left: 44px;
+    position: relative;
+}
+.m_arrow_img {
+	margin-top: 70px;
+    position: relative;
+    margin-left: 10px;
+	width: 57px;
+    z-index: 99;
+    left: 7px;
+    top: 5px;
+}
+.field-suffix {
+	font-size: 11px;
+    color: #aaaaaa;
+	width: 242px;
+    display: block;
+	line-height: 11px;
+	margin-left: 18px;
+    top: 5px;
+    position: relative;
+}
+#buttonContinue {
+	left: 263px;
+    position: absolute;
+    top: 158px;
+}
+#tab1 .controls .next {
+	display: block !important;
+}
+#btf {
+	background:#fff url('/wp-content/themes/nia/images/sprite-mom.png') no-repeat;
+	background-position: -535px -15px;
+    margin: 10px -20px 0;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.4);
+    padding: 10px 39px 10px 65px;
+    font-size: 13px;
+    font-weight: bold!important;
+    min-height: 125px;
+    width: 373px;
+    font-family: Roboto, "Helvetica Neue", Helvetica, sans-serif;
+	line-height: 15px;
+}
+#tab18 .control-label {
+	  margin-left: 10px !important; 
+     margin-top: 0px !important;  
+     font-size: 26px; 	
+}
+.fineprint {
+	font-size: 9px;
+    font-weight: normal;
+    color: #999;
+}
+#tab18 .btn{
+	margin:0 auto !important;
+	display: block;
+    background-color: rgb(251, 172, 67);
+    color: #fff;
+	}
+/*#tab10, #tab11, #tab12, #tab13, #tab14, #tab15, #tab16, #tab17, #tab18{
+	padding-top: 20px;
+}*/
+.btn_continue_tab{
+	float: right;
+    background: none;
+    margin-top: 10px;
+}
+@media (min-width: 771px) {
+	.privacy_notes {
+		/*width: 77%;*/
+	}
+	.main_form {
+		
+	}
+}
+@media only screen and (min-device-width : 320px) and (max-device-width : 767px){
+.controls .privacy_key{
+   position: relative;
+   bottom: 86px;
+ }
+ }
